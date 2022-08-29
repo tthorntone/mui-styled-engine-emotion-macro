@@ -1,10 +1,10 @@
 import * as CSS from 'csstype';
-import { StyledComponent, StyledOptions } from '@emotion/styled';
-import { PropsOf } from '@emotion/react';
+import { StyledComponent, StyledOptions } from '@emotion/styled/macro';
+import { PropsOf } from '@emotion/react/macro';
 
-export * from '@emotion/styled';
-export { default } from '@emotion/styled';
-export { ThemeContext, keyframes, css } from '@emotion/react';
+export * from '@emotion/styled/macro';
+export { default } from '@emotion/styled/macro';
+export { ThemeContext, keyframes, css } from '@emotion/react/macro';
 
 export { default as StyledEngineProvider } from './StyledEngineProvider';
 

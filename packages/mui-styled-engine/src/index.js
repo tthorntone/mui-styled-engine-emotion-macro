@@ -1,5 +1,5 @@
 /* eslint-disable no-underscore-dangle */
-import emStyled from '@emotion/styled';
+import emStyled from '@emotion/styled/macro';
 
 export default function styled(tag, options) {
   const stylesFactory = emStyled(tag, options);

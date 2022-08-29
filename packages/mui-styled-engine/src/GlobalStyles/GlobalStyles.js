@@ -1,6 +1,6 @@
 import * as React from 'react';
 import PropTypes from 'prop-types';
-import { Global } from '@emotion/react';
+import { Global } from '@emotion/react/macro';
 
 function isEmpty(obj) {
   return obj === undefined || obj === null || Object.keys(obj).length === 0;

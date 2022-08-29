@@ -1,5 +1,5 @@
 {
-  "name": "@mui/styled-engine",
+  "name": "@mui/styled-engine-emotion-macro",
   "version": "5.10.1",
   "private": false,
   "author": "MUI Team",
@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui/material-ui.git",
+    "url": "https://github.com/tthorntone/mui-styled-engine-emotion-macro.git",
     "directory": "packages/mui-styled-engine"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mui/material-ui/issues"
+    "url": "https://github.com/tthorntone/mui-styled-engine-emotion-macro/issues"
   },
   "homepage": "https://mui.com/material-ui/guides/styled-engine/",
   "funding": {
